@@ -83,7 +83,7 @@ Passo 4: Configurar as chaves de API
         Client Secret
 
     3. Configurar o arquivo .env
-        Na pasta do projeto, acesse o arquivo chamado credentials.env.
+        Na pasta do projeto, crie um arquivo .env.
 
         Abra o arquivo .env no VSCode ou em qualquer editor de texto e adicione as seguintes linhas:
 
@@ -92,7 +92,7 @@ Passo 4: Configurar as chaves de API
         SPOTIFY_REDIRECT_URI=http://localhost:8888
         YT_CLIENT_ID=seu_client_id_do_youtube
         YT_CLIENT_SECRET=seu_client_secret_do_youtube
-        
+
         Substitua os valores pelos que você obteve nas etapas anteriores.
 
 Passo 5: Autenticar no YouTube Music
